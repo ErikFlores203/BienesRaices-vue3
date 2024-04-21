@@ -72,7 +72,7 @@
                 :error-messages="titulo.errorMessage.value" 
             />
             <v-file-input 
-                accept="img/jpg" 
+                accept="image/png, image/jpeg" 
                 label="Fotografia de la propiedad" 
                 prepend-icon="mdi-camera"
                 class="mb-5"
